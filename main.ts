@@ -49,4 +49,3 @@ app.post("/post", async (req, res) => {
 app.listen(3000, () => {
   console.log("Server is on port 3000");
 });
-
